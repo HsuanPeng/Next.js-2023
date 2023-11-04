@@ -1,7 +1,7 @@
 {
   "./dev/noop": [
     {
-      "id": "./node_modules/.pnpm/next@10.0.7_react-dom@17.0.1_react@17.0.1/node_modules/next/dist/client/dev/noop.js",
+      "id": "./node_modules/.pnpm/next@10.0.6_react-dom@17.0.1_react@17.0.1/node_modules/next/dist/client/dev/noop.js",
       "file": "static/chunks/0.js"
     }
   ]
