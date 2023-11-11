@@ -1,5 +1,5 @@
 # Next.js-2023
 
-Record what I learned from the following link
+Record what I learned from the course named 「React - The Complete Guide 2023 (incl. React Router & Redux)」
 
-https://www.youtube.com/playlist?list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s
+which taught by Maximilian Schwarzmüller
